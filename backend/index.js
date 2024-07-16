@@ -41,7 +41,7 @@ app.use("/api/enquiry", enqRouter);
 app.use(notFound)
 app.use(errorHandler)
 
-app.listen(PORT , (req,res)=>{
+app.listen(PORT,(req,res)=>{
     console.log(`server running on ${PORT}`)
 })
 

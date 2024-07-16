@@ -58,7 +58,7 @@ function Contact() {
         <div className="row">
           <div className="col-12">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d516.0078077512384!2d69.91211341629727!3d21.82453852404569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3957b926b042a64f%3A0xd5aa8e92770e8267!2sMaharana%20Pratap!5e1!3m2!1sen!2sin!4v1717993244708!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14193.342786340589!2d69.87751883647134!3d21.64478749523647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3957c60a4b08adcd%3A0x9a9a69468b447bbb!2sRanakandorna%2C%20Gujarat%20360570!5e0!3m2!1sen!2sin!4v1721144394995!5m2!1sen!2sin"
               // frameborder="1"
               width="100%"
               height="450"
@@ -146,19 +146,19 @@ function Contact() {
                       <li className="mb-3 d-flex align-items-center gap-15">
                         <FaHome className="fs-5" />
                         <address className="mb-0">
-                          satapar, Jamjodhpur , Jamnagar - 360 531 (Saurastra)
+                          Ranakandorna, Porbandar - 360570 
                         </address>
                       </li>
                       <li className="mb-3 d-flex align-items-center gap-15">
                         <IoMdCall className="fs-5" />
                         <a href="tel:+9099999999" className="mb-0">
-                          9099887766
+                          9876543210
                         </a>
                       </li>
                       <li className="mb-3 d-flex align-items-center gap-15">
                         <IoIosMail className="fs-5" />
                         <a href="mailto:umang@mail.com" className="mb-0">
-                          umangrathod@gmail.com
+                          ranjitchavda@gmail.com
                         </a>
                       </li>
                       <li className="mb-3 d-flex align-items-center gap-15">

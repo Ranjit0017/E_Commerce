@@ -104,17 +104,17 @@ const Footer = () => {
               <h6 className="text-uppercase fw-bold mb-4">Contact</h6>
               <p>
                 <MDBIcon icon="home" className="me-2" />
-               Jamnagar (Saurastra!!)
+               Porbandar
               </p>
               <p>
                 <MDBIcon icon="envelope" className="me-3" />
                 info@shop.com
               </p>
               <p>
-                <MDBIcon icon="phone" className="me-3" /> + 91 234 567 88
+                <MDBIcon icon="phone" className="me-3" /> + 919876543210
               </p>
               <p>
-                <MDBIcon icon="print" className="me-3" /> + 91 234 567 89
+                <MDBIcon icon="print" className="me-3" /> + 910123456789
               </p>
             </MDBCol>
           </MDBRow>
@@ -127,7 +127,7 @@ const Footer = () => {
       >
         © 2024 Copyright:  
         <a className="text-white text-reset fw-bold ms-2" href="https://mdbootstrap.com/">
-          Umang L Rathod
+          Ranjit B Chavda
         </a>
       </div>
     </MDBFooter>
